@@ -1,2 +1,3 @@
 # ToDoList
-https://github.com/koushick07/ToDoList/todolist/index.html
+
+https://koushick07.github.io/ToDoList/todolist/index.html
